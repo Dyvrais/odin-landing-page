@@ -95,7 +95,7 @@ a {
 
 .subtitle {
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
     letter-spacing: 2px;
 }
 
@@ -108,7 +108,7 @@ a {
 }
 
 .portrait > img {
-    width: 325px;
+    width: 250px;
     height: auto;
 }
 
