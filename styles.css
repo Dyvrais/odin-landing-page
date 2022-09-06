@@ -75,18 +75,18 @@ a {
 }
 
 .main__info > p {
-    font-size: 25px;
+    font-size: 18px;
 }
 
 .dblink {
     text-align: center;
-    font-size: 23px;
+    font-size: 20px;
     letter-spacing: 1px;
     color: #f0f00b;
 }
 
 .main__img > img {
-    width: 900px;
+    width: 700px;
     height: auto;
     border-radius: 3%;
 }
