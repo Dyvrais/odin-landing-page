@@ -16,7 +16,7 @@ a:hover {
 
 .title {
     font-family: 'Oswald', sans-serif;
-    font-size: 30px;
+    font-size: 26px;
     font-weight: 900;
     text-align: center;
     color: #f0f00b;
@@ -39,10 +39,11 @@ ul {
     list-style: none;
     display: flex;
     flex: 0 auto;
-    font-size: 20px;
+    font-size: 17px;
     gap: 45px;
     margin-left: auto;
     padding: 13px;
+    align-items: center;
 }
 
 a {
@@ -63,7 +64,7 @@ a {
 .main__info {
     display: flex;
     flex-direction: column;
-    margin: 0 50px 0 25px;
+    margin: 0 25px 0 25px;
     background-color: #42516688;
     padding: 20px;
     justify-content: center;
@@ -71,16 +72,16 @@ a {
     text-align: justify;
     color: #f8efef;
     border-radius: 3%;
-    font-size: 22px;
+    font-size: 18px;
 }
 
 .main__info > p {
-    font-size: 18px;
+    font-size: 19px;
 }
 
 .dblink {
     text-align: center;
-    font-size: 20px;
+    font-size: 22px;
     letter-spacing: 1px;
     color: #f0f00b;
 }
@@ -95,7 +96,7 @@ a {
 
 .subtitle {
     text-align: center;
-    font-size: 40px;
+    font-size: 37px;
     letter-spacing: 2px;
 }
 
@@ -104,7 +105,7 @@ a {
     text-align: center;
     justify-content: space-evenly;
     align-items: center;
-    height: 700px;
+    height: 550px;
 }
 
 .portrait > img {
@@ -113,14 +114,14 @@ a {
 }
 
 .portrait > p {
-    font-size: 27px;
+    font-size: 22px;
     font-weight: 700;
 }
 
 /* CURIOSIDADES */
 
 #curiosidades { 
-    font-size: 24px;
+    font-size: 20px;
     text-align: center;
     height: 600px;
     display: flex;
@@ -140,7 +141,7 @@ a {
 
 #footer > p {
     color: white;
-    font-size: 19px;
+    font-size: 16px;
     text-align: justify;
     padding: 20px 35px;
 }
