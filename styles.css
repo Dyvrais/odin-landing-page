@@ -108,9 +108,19 @@ a {
     height: 550px;
 }
 
+.portrait {
+    transition: transform 0.4s ease;
+}
+
 .portrait > img {
     width: 250px;
     height: auto;
+    
+}
+
+.portrait:hover {
+        transform: scale(1.15);
+
 }
 
 .portrait > p {
